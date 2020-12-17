@@ -42,7 +42,7 @@ export default function Nav() {
           <StyledLinkButton href="/meals">Meals</StyledLinkButton>
         </li>
         <li>
-          <StyledLinkButton href="/addmeals">Add a Meal</StyledLinkButton>
+          <StyledLinkButton href="/addmeal">Add a Meal</StyledLinkButton>
         </li>
         <li>
           <StyledLinkButton href="/login">Login/Signup</StyledLinkButton>

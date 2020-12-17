@@ -5,6 +5,7 @@ const Container = styled.div`
   margin: 0 auto;
   max-width: 800px;
   text-align: center;
+  color: white;
 `;
 
 export default Container;
