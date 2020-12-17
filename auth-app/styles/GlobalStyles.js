@@ -1,7 +1,7 @@
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyles = createGlobalStyle`  
-font-size: 2rem;
+background-color: black;
 `;
 
 export default GlobalStyles;
