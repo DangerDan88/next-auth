@@ -2,7 +2,7 @@ import Head from "next/head";
 import GlobalStyles from "../styles/GlobalStyles";
 import Container from "../styles/Container";
 import Header from "../components/Header";
-//import Nav from "../components/Nav";
+import SignUp from "../components/SignUp";
 
 export default function Home() {
   return (
@@ -13,7 +13,9 @@ export default function Home() {
       </Head>
       <GlobalStyles />
       <Header />
-      <Container>Home</Container>
+      <Container>
+        <SignUp />
+      </Container>
     </div>
   );
 }
